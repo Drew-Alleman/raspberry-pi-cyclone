@@ -6,10 +6,10 @@ Simple python Cyclone LED game made in python
 
 ## Difficulties 
 ### Easy
-![Easy](https://i.imgur.com/ZTBeCEt.mp4)
+![Easy](easy.gif)
 
 ### Medium
-![Medium](https://i.imgur.com/kEk32oq.mp4)
+![Medium](medium.gif)
 
 ### Hard
-![Hard](https://i.imgur.com/yUdpYFn.mp4)
+![Hard](hard.gif)
