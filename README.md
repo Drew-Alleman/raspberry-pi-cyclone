@@ -2,7 +2,7 @@
 Simple python Cyclone LED game made in python
 
 ## Breadboard
-![Breadboard](https://i.imgur.com/OIry7pG.jpg)
+<img src="https://i.imgur.com/OIry7pG.jpg" width="540">
 
 ## Difficulties 
 ### Easy
